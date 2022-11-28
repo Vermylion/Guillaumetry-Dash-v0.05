@@ -28,7 +28,7 @@ if h <= win_h:
     win_h = round(h / 1.5)
 
 #Set window's attributes
-pygame.display.set_caption(f'Guillaumetry Dash v0.03-Beta ({win_w}x{win_h})')
+pygame.display.set_caption(f'Guillaumetry Dash v0.05-Beta ({win_w}x{win_h})')
 flags = RESIZABLE | DOUBLEBUF
 screen = pygame.display.set_mode((win_w, win_h), flags, 16)
 #pygame.event.set_allowed([QUIT, KEYDOWN, KEYUP, MOUSEBUTTONDOWN, VIDEORESIZE])
