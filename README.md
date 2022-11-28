@@ -34,7 +34,7 @@
 ## Coming in future updates:
 + Whole main menu: can select characters, levels, and play
 + Level selection (menu) -> Select from built-in levels to hand made ones
-+ *Maybe* Level editor
++ *Maybe* In-game level editor
 + More levels
 + More blocks to play with
 + More customization with mood changes (in the level editor)
