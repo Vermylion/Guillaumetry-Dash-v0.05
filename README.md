@@ -1,6 +1,6 @@
 # Guillaumetry Dash v0.05
 
-### *Info: + Python is needed as well as the python library `pygame` (install using cmd: `pip install pygame`)*
+### *Info: If running `GD_Game_Run.py`, Python is needed as well as the python library `pygame` (install using cmd: `pip install pygame`)*
 
 ## How to play:
 + Left mouse click, spacebar or up arrow to jump
